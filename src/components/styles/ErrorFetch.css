@@ -1,0 +1,16 @@
+.advertence {
+    width: 100%;
+    padding-top: 25px;
+    text-align: center;
+    font-size: 2em;
+    padding: 20px;
+}
+.icon {
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,39 @@
+.card__info {
+    width: 100%;
+    border-radius: 0.8em;
+    height: 126px;
+    left: 275px;
+    top: 404px;
+    background: #062226;
+    color: white;
+    padding: 20px;
+    bottom: 20px;
+    text-align: center;
+}
+.card__name-info {
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 0.7em;
+}
+.card__list-info {
+    display: grid;
+    gap: 0.5em;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-size: 0.9rem;
+    font-weight: 800;
+}
+.card__label-info {
+    display: block;
+    text-transform: uppercase;
+    color: white;
+    margin-bottom: 0.05em;
+    position: relative;
+    left: 0.8em;
+    text-align: center;
+}
+.card__item-info {
+    color: rgb(132, 132, 132);
+    text-align: center;
+    line-height: 28px;
+}
